@@ -1,2 +1,1 @@
-# Collection of Projects to Improve My Javascript Skill
-
+JavaScript training projects
